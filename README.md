@@ -1,3 +1,8 @@
+## Install
+```
+pip install -r requirements.txt
+```
+
 ##To run playbook:
 
 ```
